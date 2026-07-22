@@ -1,4 +1,3 @@
-
 # Poovaragan S — Premium Portfolio
 
 A premium, founder-grade portfolio built with Next.js 15, TypeScript, Tailwind CSS,
@@ -80,4 +79,3 @@ so updating them updates what the assistant knows automatically.
 - `MeshDistortMaterial` (drei) is used for the hero sphere — swap for
   `MeshTransmissionMaterial` for a heavier true-glass refraction look if your
   performance budget allows.
-
