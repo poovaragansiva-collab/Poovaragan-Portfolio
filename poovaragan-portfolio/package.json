@@ -1,0 +1,49 @@
+{
+  "name": "poovaragan-portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "15.0.3",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "typescript": "^5.5.4",
+    "@types/node": "^20.14.0",
+    "@types/react": "^18.3.3",
+    "@types/react-dom": "^18.3.0",
+    "tailwindcss": "^3.4.10",
+    "postcss": "^8.4.41",
+    "autoprefixer": "^10.4.20",
+    "tailwindcss-animate": "^1.0.7",
+    "class-variance-authority": "^0.7.0",
+    "clsx": "^2.1.1",
+    "tailwind-merge": "^2.5.2",
+    "lucide-react": "^0.436.0",
+    "framer-motion": "^11.5.4",
+    "three": "^0.167.1",
+    "@react-three/fiber": "^8.17.6",
+    "@react-three/drei": "^9.112.0",
+    "@types/three": "^0.167.1",
+    "mongodb": "^6.8.0",
+    "mongoose": "^8.5.4",
+    "zod": "^3.23.8",
+    "resend": "^4.0.0",
+    "next-auth": "^4.24.7",
+    "@radix-ui/react-dialog": "^1.1.1",
+    "@radix-ui/react-tabs": "^1.1.0",
+    "@radix-ui/react-label": "^2.1.0",
+    "@radix-ui/react-slot": "^1.1.0",
+    "@radix-ui/react-toast": "^1.2.1",
+    "uuid": "^10.0.0",
+    "@types/uuid": "^10.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.57.0",
+    "eslint-config-next": "15.0.3"
+  }
+}
